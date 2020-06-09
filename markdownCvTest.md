@@ -6,13 +6,13 @@
 ***
 ### Présentation ###
 Salut moi c'est Guillaume, passionné d'informatique, je code depuis quelques temps et aimerait en faire mon métier pour pouvoir vivre de ma passion.
-
-## Développeur Web ##
-
+***
+# Développeur Web #
+***
 
 
 ### Experiences professionnel ###
-
+***
 
 **M.J.C Thurins**
 
@@ -28,9 +28,9 @@ Novembre 2016 - Février 2018
 Ouvrier Fabrication
 
 
-
+***
 ### Formations ###
-
+***
 **Piscine de la 42**
 
 42 Auvergne Rhône Alpes
@@ -40,9 +40,9 @@ Août 2019
 _apprentissage du shell et des script shell sous macOS et des bases du language C_
 
 
-
+***
 ### Compétences ###
-
+***
 **HTML**
 
 **CSS**
@@ -52,9 +52,9 @@ _apprentissage du shell et des script shell sous macOS et des bases du language 
 **JavaScript**
 
 
-
+***
 ### Hobbies ###
-
+***
 * jeux video
 * cinema
 * coder
