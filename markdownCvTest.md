@@ -3,7 +3,7 @@
 # Guillaume BENTO AIRES #
 #### 06 00 00 00 00 ####
 #### guillaume-bento-aires_student2020@wilder.school ####
-#### 69290 Thurins ####
+#### 69510 Thurins ####
 [linkedin](https://www.linkedin.com/in/guillaume-bento-aires-7623071a3)
 
 ## Développeur Web ##
@@ -36,7 +36,7 @@ Ouvrier Fabrication
 
 Août 2019
 
-__ apprentissage du shell et des script shell sous macOS et des bases du language C __
+__apprentissage du shell et des script shell sous macOS et des bases du language C__
 
 
 
