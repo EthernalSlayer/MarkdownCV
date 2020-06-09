@@ -8,7 +8,10 @@
 
 ## Développeur Web ##
 
+
+
 ### Experiences professionnel ###
+
 
 **M.J.C Thurins**
 
@@ -16,11 +19,14 @@ Septembre 2018 - Mars 2019
 
 Animateur
 
+
 **Slaisons Valansot**
 
 Novembre 2016 - Février 2018
 
 Ouvrier Fabrication
+
+
 
 ### Formations ###
 
@@ -30,7 +36,9 @@ Ouvrier Fabrication
 
 Août 2019
 
-__apprentissage du shell et des script shell sous macOS et des bases du language C__
+__ apprentissage du shell et des script shell sous macOS et des bases du language C __
+
+
 
 ### Compétences ###
 
@@ -41,6 +49,8 @@ __apprentissage du shell et des script shell sous macOS et des bases du language
 **Python**
 
 **JavaScript**
+
+
 
 ### Hobbies ###
 
